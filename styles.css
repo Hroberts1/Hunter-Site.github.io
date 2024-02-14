@@ -10,5 +10,8 @@
 body{
   text-align: center;
   background-color: #eeecc2;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: auto;
 }
 
