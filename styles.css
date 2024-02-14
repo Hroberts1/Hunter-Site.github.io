@@ -15,3 +15,7 @@ body{
   margin-top: auto;
 }
 
+.table{
+  margin: 100px;
+  border: black;
+}
