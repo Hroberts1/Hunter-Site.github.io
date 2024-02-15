@@ -17,17 +17,17 @@ body{
 
 .container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
 }
 
 .container h3,
 .container img {
-  flex: 1;
+  flex: 0.5;
   margin: 0;
 }
 
 .container img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
