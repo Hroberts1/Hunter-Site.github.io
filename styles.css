@@ -16,8 +16,9 @@ body{
 }
 
 .table{
-  margin: 100px;
-  border: black;
-  border-width: 3px;
+  margin-left: auto;
+  margin-right: auto;
+ 
   text-align: center;
+
 }
